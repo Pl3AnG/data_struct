@@ -1,4 +1,4 @@
-# data_struct
+# data_structure https://media0.giphy.com/media/135DBazlXmCxos/giphy.gif?cid=ecf05e47jlh6z5imu10yp2ppfs9dktqqffswnet2789ty07j&ep=v1_stickers_search&rid=giphy.gif&ct=s
 
 | Stack | `LIFO` | `Last In Frist Out`  |
 | :---- | :----- | :------------------- |
