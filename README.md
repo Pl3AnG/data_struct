@@ -1,4 +1,4 @@
-# data_structure https://media0.giphy.com/media/135DBazlXmCxos/giphy.gif?cid=ecf05e47jlh6z5imu10yp2ppfs9dktqqffswnet2789ty07j&ep=v1_stickers_search&rid=giphy.gif&ct=s
+# data_structure <img align="center" src="https://media0.giphy.com/media/135DBazlXmCxos/giphy.gif?cid=ecf05e47jlh6z5imu10yp2ppfs9dktqqffswnet2789ty07j&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50">
 
 | Stack | `LIFO` | `Last In Frist Out`  |
 | :---- | :----- | :------------------- |
