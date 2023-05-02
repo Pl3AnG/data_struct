@@ -10,7 +10,7 @@ https://deepblade.com/wp-content/uploads/2022/04/stackgif.gif
 https://deepblade.com/wp-content/uploads/2022/04/queuegif.gif
 <table>
   <tr>
-    <td colspan="2" align="center"> <th colspan="2"><img width="100%" src="https://deepblade.com/wp-content/uploads/2022/04/queuegif.gif">Stack</th>
+    <td colspan="2" align="center"> <img width="100%" src="https://deepblade.com/wp-content/uploads/2022/04/queuegif.gif">Stack</th>
     </td>
     <td><th colspan="2"><img width="100%" src="https://deepblade.com/wp-content/uploads/2022/04/queuegif.gif">Queue</th></td>
   </tr>
