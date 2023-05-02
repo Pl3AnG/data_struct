@@ -33,12 +33,17 @@ int main(){
         }
         // Dequeue
         else if (menu == 2){
+            // check queue empty?
             if (front == NULL){
                 printf("Queue empty.\n");
             }
+            // not empty
             else {
+                // first node
                 newNode = front;
+                // change from first node => second node
                 front = front->ptr;
+                // dequeue จน queue not node change rear = NULLL
                 if (front == NULL){
                     rear = NULL;
                 }
